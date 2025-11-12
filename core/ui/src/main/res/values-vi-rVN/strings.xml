@@ -637,4 +637,5 @@
     <string name="percent_rate_duration_formatted"><![CDATA[<b>Tốc độ</b>: %1$.2f%% (%2$.2f U/h)<br><b>Thời gian</b>: %3$d phút<br>]]></string>
     <string name="rate_percent_duration_formatted"><![CDATA[<b>Tốc độ</b>: %1$.2f U/h (%2$.2f%%) <br><b>Thời gian</b>: %3$d phút<br>]]></string>
     <!--    Playback-->
+    <string name="audio_playback_attribution">"AAPS phát âm thanh"</string>
 </resources>
